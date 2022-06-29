@@ -1,6 +1,9 @@
 # AmazonCoupon_PracAppI
 Link to github: https://github.com/kwangromero/AmazonCoupon_PracAppI.git
 
+# Note
+The plotly graphs are not shown when viewing the Jupyter notebook content via github. When the Jupyter Notebook is downloaded, make sure to also download the dataset (coupons.csv) and save it in a folder titled "data". This is because in the Jupyter notebook, the coupons.csv dataset is referenced from the following path: data/coupons.csv 
+
 # Github repository description
 Includes a Jupyter Notebook that details the characteristics of customers who accept bar and coffee-house coupons to help determine 
 if sending coupons to drivers are effective.
